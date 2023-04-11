@@ -1,2 +1,2 @@
 # MTIT-CLOUD-COMPUTING
-Assignment 3 - Microservices API
+Lab related to assignment 3 - Microservices API
